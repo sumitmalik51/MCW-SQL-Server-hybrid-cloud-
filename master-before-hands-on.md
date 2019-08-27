@@ -79,7 +79,7 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 
 8. On the **Custom deployment** blade, select **Create new** under the **Resource group**. Name the resource group ***CloudShop1***. Choose the region pair of your CloudShop2 resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
-    ![The Azure custom deployments blade is shown. The setting for resource group has been changed to CloudShop1 and the I agree to the terms and conditions stated above checkbox has been checked. All other values have been left at the defaults.](images/hands-on-lab/2019-03-25-21-15-05.png "Custom deployment blade")
+    ![The Azure custom deployments blade is shown. The setting for resource group has been changed to CloudShop1 and the I agree to the terms and conditions stated above checkbox has been checked. All other values have been left at the defaults.](images/hands-on-lab/2019-03-25-21-15-05(1).png "Custom deployment blade")
 
     > **Note**: Do not use a different resource group and do not change any of the values listed here or your lab will not deploy correctly.
 
