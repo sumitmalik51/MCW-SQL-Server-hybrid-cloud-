@@ -23,15 +23,6 @@ The names of manufacturers, products, or URLs are provided for informational pur
 
 Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/General.aspx> are trademarks of the Microsoft group of companies. All other trademarks are property of their respective owners.
 
-**Contents**
-
-- [SQL Server hybrid cloud before the hands-on lab setup guide](#sql-server-hybrid-cloud-before-the-hands-on-lab-setup-guide)
-  - [Requirements](#requirements)
-  - [Before the hands-on lab](#before-the-hands-on-lab)
-    - [Task 1: Deploy the on-premises environment](#task-1-deploy-the-on-premises-environment)
-    - [Task 2: Verify virtual machines domain join status](#task-2-verify-virtual-machines-domain-join-status)
-    - [Task 3: Verify the website is operational](#task-3-verify-the-website-is-operational)
-  - [Summary](#summary)
 
 # SQL Server hybrid cloud before the hands-on lab setup guide 
 
@@ -60,18 +51,18 @@ src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46
 
 
 
-2. Click the **Deploy to Azure** button below.
+4. Click the **Deploy to Azure** button below.
 
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fopsgility%2Fcw-sql-hybrid-cloud%2Fmaster%2Fazure-deploy.json" rel="nofollow">
     <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;"></a>
 
-8. On the **Custom deployment** blade, select **Create new** under the **Resource group**. Name the resource group ***CloudShop1***. Choose the region pair of your CloudShop2 resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
+5. On the **Custom deployment** blade, select **Create new** under the **Resource group**. Name the resource group ***CloudShop1***. Choose the region pair of your CloudShop2 resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
     ![The Azure custom deployments blade is shown. The setting for resource group has been changed to CloudShop1 and the I agree to the terms and conditions stated above checkbox has been checked. All other values have been left at the defaults.](images/before-the-hands-on-lab/2019-03-25-21-15-05.png "Custom deployment blade")
 
    
 
-9. Wait for the deployment to complete. This may take up to 60 minutes.
+6. Wait for the deployment to complete. This may take up to 60 minutes.
 
 
 ## Summary
