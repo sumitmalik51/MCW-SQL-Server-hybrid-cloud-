@@ -54,20 +54,18 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
 
 
-4. Click on Edit Template button and Add resource group **SUFFIX** in default vaule of second resource group.
-<img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot44.png">
 
 
 
 
 
-5. On the **Custom deployment** blade, select **Cloud Shop1-SUFFIX ** under the **Resource group**. Choose the region pair of your CloudShop2-SUFFIX resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
+4. On the **Custom deployment** blade, select **Cloud Shop1-SUFFIX ** under the **Resource group**. Choose the region pair of your CloudShop2-SUFFIX resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
    <img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/images/before-the-hands-on-lab/Screenshot%20(48).png">
 
    
 
-6. Wait for the deployment to complete. This may take up to 60 minutes.
+5. Wait for the deployment to complete. This may take up to 60 minutes.
 
 
 ## Summary
