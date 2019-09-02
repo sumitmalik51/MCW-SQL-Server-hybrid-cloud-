@@ -57,6 +57,10 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 1. Browse to the Azure portal at <https://portal.azure.com> and verify that you are logged in with the subscription that you wish to use for this lab.
 
     >**Note**: You may need to launch an \"in-private\" session in your browser if you have multiple Microsoft Accounts.
+    
+    
+2. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
+
 
 
 
