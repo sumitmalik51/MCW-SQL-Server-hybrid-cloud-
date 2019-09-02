@@ -55,7 +55,7 @@ src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46
 
 
 3. Click on Edit Template button and Add resource group **SUFFIX** in default vaule of second resource group.
-<img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
+<img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot44.png">
 
 
 
