@@ -39,22 +39,27 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
     >**Note**: You may need to launch an \"in-private\" session in your browser if you have multiple Microsoft Accounts.
     
     
-2. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
+2. Click the **Deploy to Azure** button below.
+
+    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fopsgility%2Fcw-sql-hybrid-cloud%2Fmaster%2Fazure-deploy.json" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;"></a>
+
+
+
+
+
+3. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
 
   <img
 src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
 
 
-3. Click on Edit Template button and Add resource group **SUFFIX** in default vaule of second resource group.
+4. Click on Edit Template button and Add resource group **SUFFIX** in default vaule of second resource group.
 <img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot44.png">
 
 
 
 
-4. Click the **Deploy to Azure** button below.
-
-    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fopsgility%2Fcw-sql-hybrid-cloud%2Fmaster%2Fazure-deploy.json" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;"></a>
 
 5. On the **Custom deployment** blade, select **Cloud Shop1-SUFFIX ** under the **Resource group**. Choose the region pair of your CloudShop2-SUFFIX resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
