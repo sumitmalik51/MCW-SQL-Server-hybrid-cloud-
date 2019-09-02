@@ -58,7 +58,7 @@ src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46
 
 5. On the **Custom deployment** blade, select **Create new** under the **Resource group**. Name the resource group ***CloudShop1***. Choose the region pair of your CloudShop2 resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
-    ![The Azure custom deployments blade is shown. The setting for resource group has been changed to CloudShop1 and the I agree to the terms and conditions stated above checkbox has been checked. All other values have been left at the defaults.](images/before-the-hands-on-lab/Screenshot (48).png "Custom deployment blade")
+   <img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot48.png">
 
    
 
