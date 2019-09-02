@@ -35,17 +35,6 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 # SQL Server hybrid cloud before the hands-on lab setup guide 
 
-## Requirements
-
-1.  Microsoft Azure Subscription
-
-2.  Virtual Machine Built during this hands-on lab or local machine with the following:
-
-    - Latest Azure PowerShell cmdlets:
-        - <https://azure.microsoft.com/en-us/downloads/>
-        - <https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps>
-        - Ensure you reboot after installing the SDK or Azure PowerShell may not work correctly.
-
 ## Before the hands-on lab
 
 Duration: 60 minutes
@@ -60,6 +49,7 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
     
     
 2. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
+  ![here is shown how you have to change SUFFIX in second resource group section.]((images/before-the-hands-on-lab/Screenshot (40).png "Custom deployment blade")
 
 
 
