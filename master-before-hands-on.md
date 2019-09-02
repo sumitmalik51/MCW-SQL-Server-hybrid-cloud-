@@ -51,7 +51,7 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 3. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
 
   <img
-src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
+src="https://github.com/sumitmalik51/MCW-SQL-Server-hybrid-cloud-/blob/master/images/before-the-hands-on-lab/Screenshot%20(46).png">
 
 
 
