@@ -56,7 +56,7 @@ src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fopsgility%2Fcw-sql-hybrid-cloud%2Fmaster%2Fazure-deploy.json" rel="nofollow">
     <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;"></a>
 
-5. On the **Custom deployment** blade, select **Create new** under the **Resource group**. Name the resource group ***CloudShop1***. Choose the region pair of your CloudShop2 resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
+5. On the **Custom deployment** blade, select **Cloud Shop1-SUFFIX ** under the **Resource group**. Choose the region pair of your CloudShop2-SUFFIX resource group location. In our lab document we have chosen the **East US 2/Central US** region pair. Accept the terms and conditions and click **Purchase**.
 
    <img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/images/before-the-hands-on-lab/Screenshot%20(48).png">
 
