@@ -39,6 +39,8 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
     >**Note**: You may need to launch an \"in-private\" session in your browser if you have multiple Microsoft Accounts.
     
     
+    
+    
 2. Click the **Deploy to Azure** button below.
 
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fopsgility%2Fcw-sql-hybrid-cloud%2Fmaster%2Fazure-deploy.json" rel="nofollow">
