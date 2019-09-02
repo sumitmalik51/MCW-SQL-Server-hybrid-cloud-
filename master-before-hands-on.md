@@ -54,6 +54,10 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
 
 
+3. Click on Edit Template button and Add resource group **SUFFIX** in default vaule of second resource group.
+<img src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot46.png">
+
+
 
 
 2. Click the **Deploy to Azure** button below.
