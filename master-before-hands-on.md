@@ -51,7 +51,8 @@ In this exercise, you deploy an on-premises environment and the Azure infrastruc
 2. Make sure to Add Resource Groups **SUFFIX** in the Second Resource Group Section. 
 
   ![here is shown how you have to change SUFFIX in second resource group section.](images/before-the-hands-on-lab/Screenshot46.png "Custom deployment blade1")
-
+  <img
+src="https://github.com/sumitmalik51/MCWsqlhybridcloud-/blob/master/Screenshot44.png">
 
 
 
